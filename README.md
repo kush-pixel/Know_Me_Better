@@ -18,7 +18,7 @@ This application has a lot of future scope, and there are a lot of additions tha
 5. Allow user to customize his own resume. (Something like canva)
 
 ## Video
-
+https://user-images.githubusercontent.com/73009817/144549676-db7f7042-3401-4f99-8a55-76db98edfa46.mp4
 ## Contributors
 1. Kush Patel - 1911101
 2. Burhanuddin Rangwala - 1911109
